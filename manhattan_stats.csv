@@ -1,0 +1,48 @@
+,Borough,Neighborhood,ID,Name,Likes,Rating,Tips
+0,Manhattan,Chinatown,4db3374590a0843f295fb69b,Spicy Village,493,8.7,177
+1,Manhattan,Chinatown,5894c9a15e56b417cf79e553,Xi'an Famous Foods,97,8.9,27
+2,Manhattan,Chinatown,4a96bf8ff964a520ce2620e3,Wah Fung Number 1 Fast Food 華豐快飯店,181,8.3,91
+3,Manhattan,Chinatown,3fd66200f964a52067e61ee3,Joe's Shanghai 鹿嗚春,1296,8.5,566
+4,Manhattan,Chinatown,3fd66200f964a520b1ea1ee3,Great N.Y. Noodletown,535,8.0,285
+5,Manhattan,Chinatown,5c965dad5455b2002c058659,Yi Ji Shi Mo Noodle Corp,13,8.2,2
+6,Manhattan,Chinatown,3fd66200f964a520ede41ee3,Big Wong King 大旺,414,8.3,185
+7,Manhattan,Chinatown,59ad625a2619ee5cdded881f,House Special 甘來飯店,21,8.1,13
+8,Manhattan,Washington Heights,4b292f38f964a520939a24e3,Yang Garden,6,7.7,2
+9,Manhattan,Washington Heights,4b3fe94af964a520e2b125e3,No. 1 Chinese Restaurant,3,6.7,5
+10,Manhattan,Inwood,4b9aeeedf964a52086e435e3,Lotus Express,7,7.5,4
+11,Manhattan,Inwood,4bd5f4d229eb9c74c64594e1,"""U"" Like",11,6.8,7
+12,Manhattan,Hamilton Heights,4cd76fd7dfb4a1cd7195645c,King's Wok,5,7.4,4
+13,Manhattan,Hamilton Heights,4c0b25636071a59342ece032,Golden Wok,6,6.6,5
+14,Manhattan,Manhattanville,4b21974df964a520833e24e3,China Place,4,6.4,6
+15,Manhattan,Manhattanville,0,0,0,0.0,0
+16,Manhattan,Central Harlem,4bd1f6909854d13a38a2fa4d,88 Chinese Restaurant,8,7.7,4
+17,Manhattan,Central Harlem,4bf348fce5eba593c8711e90,Crispy Bamboo Village,9,7.4,2
+18,Manhattan,Upper East Side,5465906e498e0cb221c063e1,Pig Heaven,51,7.8,16
+19,Manhattan,Yorkville,4b53bfb3f964a5202daa27e3,Charley Mom,11,7.3,8
+20,Manhattan,Lenox Hill,4ea5be4af5b9efc002cccdea,Shanghai,11,7.6,8
+21,Manhattan,Upper West Side,5529bfd8498ec6ce692d8015,Han Dynasty,312,8.9,65
+22,Manhattan,Clinton,4aa707ccf964a520d84b20e3,Ollie's Sichuan Restaurant,149,7.5,58
+23,Manhattan,Midtown,517021ffe4b0ad9829ae7815,Xi'an Famous Foods,930,8.8,253
+24,Manhattan,Murray Hill,5bd497a9f427de003989e9d8,Dun Huang,15,8.2,0
+25,Manhattan,Murray Hill,4e3484038877beb5e9a22a0b,Café China,1027,8.9,273
+26,Manhattan,Chelsea,44e9b421f964a520a5371fe3,Buddakan,1461,9.2,514
+27,Manhattan,Greenwich Village,5a20df1742d8c2528e74211f,Chow House,62,8.8,5
+28,Manhattan,Greenwich Village,5b36566f666116002c6b265e,Junzi Kitchen (Greenwich Village),50,8.4,9
+29,Manhattan,Greenwich Village,5b50ccb4a9e402002c422f84,Tipsy Shanghai,33,8.3,7
+30,Manhattan,East Village,5c831f04029a550039fcca38,Chinese Graffiti,10,8.4,1
+31,Manhattan,East Village,4c2a81398abca59393c8fe1f,Xi'an Famous Foods,861,8.9,319
+32,Manhattan,East Village,5647ee82498e8bfc0ddef53d,Málà Project,412,9.0,90
+33,Manhattan,East Village,58d176db0b56560b9cad4cef,Little Tong Noodle Shop,151,8.3,34
+34,Manhattan,Lower East Side,5b380f649deb7d00399fdf9d,Kings County Imperial,57,9.0,8
+35,Manhattan,Lower East Side,4b92cc07f964a520a21c34e3,Wa Lung Kitchen,4,5.8,2
+36,Manhattan,Lower East Side,0,0,0,0.0,0
+37,Manhattan,Tribeca,5237264111d27e8e90c10357,China Blue,342,8.8,83
+38,Manhattan,West Village,526eeb54498e9674b5d9034a,Decoy,325,9.1,105
+39,Manhattan,West Village,4e1df590b61c7cb34d9735a8,RedFarm,701,8.8,283
+40,Manhattan,Manhattan Valley,529e3657498efb17e9c800b7,Xi'an Famous Foods,294,8.5,78
+41,Manhattan,Battery Park City,5742850f498e0114292c6a52,Ningbo Cafe,17,7.1,5
+42,Manhattan,Financial District,5bfc372c8ad62e002c491793,Xi’an Famous Foods,25,7.8,8
+43,Manhattan,Carnegie Hill,49d6a64cf964a520f45c1fe3,Wok 88,47,7.4,40
+44,Manhattan,Sutton Place,3fd66200f964a520adea1ee3,Mr. Chow,147,7.7,59
+45,Manhattan,Sutton Place,5cfab769b399f7002c7ef4f6,Hutong,20,8.1,3
+46,Manhattan,Flatiron,59035bc43d47912d4b97f3fc,Xi'an Famous Foods,201,9.2,43
